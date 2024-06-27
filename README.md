@@ -53,7 +53,3 @@ git clone https://github.com/mahmoud-elkassas/Restaurant-Website
 ```
 npm start
 ```
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README file.
