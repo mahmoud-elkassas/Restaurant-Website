@@ -6,7 +6,7 @@ Welcome to our restaurant website project! This project is built using React, pr
 
 To explore the live version of the website, visit [here](https://restaurant-website11.netlify.app/).
 
-![Uploading 309484356-cce47142-9e9a-42cb-85ac-3703c70e5a38.jpeg…]() #
+![309484356-cce47142-9e9a-42cb-85ac-3703c70e5a38](https://github.com/mahmoud-elkassas/Restaurant-Website/assets/105293110/46e790f2-a45a-4862-8cea-62c3b28bbb66)
 
 ## Navbar
 
@@ -57,7 +57,3 @@ npm start
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README file.
-
-## License
-
-This project is licensed under the MIT License.
