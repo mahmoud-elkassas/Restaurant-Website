@@ -1,14 +1,12 @@
 # Restaurant-Website
 
-# Restaurant Website
-
 Welcome to our restaurant website project! This project is built using React, providing a modern and interactive platform for showcasing services. Our website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
 ## See here
 
 To explore the live version of the website, visit [here](https://restaurant-website11.netlify.app/).
 
-![Screenshot_2-3-2024_211452_tasty-react vercel app](https://github.com/ImeshaDilshani/tasty-react/assets/93858302/cce47142-9e9a-42cb-85ac-3703c70e5a38)
+![Uploading 309484356-cce47142-9e9a-42cb-85ac-3703c70e5a38.jpeg…]() #
 
 ## Navbar
 
@@ -44,15 +42,22 @@ The footer section provides additional information:
 
 To get started with running the project locally, follow these steps:
 
+1. Clone this repository to your local machine:
+
 ```
-. Navigate to the terminal
+git clone https://github.com/mahmoud-elkassas/Restaurant-Website
 ```
 
+2. Navigate to the terminal
+
+```
 npm start
-
 ```
+
 ## Contributing
+
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README file.
 
+## License
 
-```
+This project is licensed under the MIT License.
